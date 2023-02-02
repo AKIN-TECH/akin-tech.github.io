@@ -31,7 +31,7 @@ const Footer = () => {
           <a href="https://web.facebook.com/">
             <FaFacebook />
           </a>
-          <a href="https://www.instagram.com/">
+          <a href="https://www.instagram.com/manzeledtech/">
             <FaInstagram />
           </a>
           <a href="https://twitter.com/">
