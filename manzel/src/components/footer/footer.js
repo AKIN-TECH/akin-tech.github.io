@@ -54,7 +54,7 @@ const Footer = () => {
         </div>
         <div>
           <i className="fa fa-phone"></i>
-          <p> (+962) 790654588 </p>
+          <p> (+962) 770363106</p>
         </div>
         <div>
           <i className="fa fa-envelope"></i>
