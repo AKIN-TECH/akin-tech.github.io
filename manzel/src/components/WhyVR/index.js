@@ -19,22 +19,22 @@ const WhyVR = ({ lightBg, id, imgStart, darkText }) => {
           <h1 className="why">Why VR?</h1>
           <WhyVRRow imgStart={!imgStart}>
             <Column1>
-              <TextWrapper>
-                <div className="overlay"></div>
-                <TopLine>Enhanced Social Learning</TopLine>
-                {/* <Subtitle darkText={darkText}>
-                  Studies showed that VR is a major factor in enhancing
-                  Visualization
-                </Subtitle> */}
-              </TextWrapper>
-            </Column1>
-            <Column2>
-              <TextWrapper>
+            <TextWrapper>
                 <div className="overlay"></div>
                 <TopLine>Allowing multiple students to communicate and engage with each other</TopLine>
                 {/* <Subtitle darkText={darkText}>
                   VR gives the ability to interact with anyone with the same
                   interest, and research is a big plus.
+                </Subtitle> */}
+              </TextWrapper>
+            </Column1>
+            <Column2>
+            <TextWrapper>
+                <div className="overlay"></div>
+                <TopLine>Enhanced Social Learning</TopLine>
+                {/* <Subtitle darkText={darkText}>
+                  Studies showed that VR is a major factor in enhancing
+                  Visualization
                 </Subtitle> */}
               </TextWrapper>
             </Column2>

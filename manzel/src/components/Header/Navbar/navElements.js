@@ -46,13 +46,19 @@ export const Logo = styled(LinkScroll)`
 
   @media screen and (max-width: 960px) {
     position: relative;
+    top: -55%;
     right: 5%;
+    width: 40%;
+    height: 240%;
+    margin-bottom: 3%;
   }
 
   @media screen and (max-width: 768px) {
+    width: 50%;
+    height: 220%;
     position: relative;
-    right: 8%;
-    top: 3%
+    right: 5%;
+    /* top: 3% */
   }
 `;
 

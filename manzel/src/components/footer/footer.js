@@ -112,7 +112,7 @@ const Footer = () => {
             Plans
           </Link>
         </p>
-        <p className="email">Support@akintech.co</p>
+        <p className="email">manzel@akintech.co	</p>
         <p className="name"> Manzel &copy; 2022</p>
       </div>
     </footer>

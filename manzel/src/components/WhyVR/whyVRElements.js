@@ -20,7 +20,6 @@ export const WhyVRWrapper = styled.div`
   display: grid;
   z-index: 1;
   height: 100%;
-  width: 100%;
   margin-right: auto;
   margin-left: auto;
   justify-content: center;
@@ -30,10 +29,9 @@ export const WhyVRWrapper = styled.div`
 export const WhyVRRow = styled.div`
   display: grid;
   grid-auto-columns: minmax(auto, 1fr);
+  margin: auto auto;
   align-items: center;
   position: relative;
-  left: 0;
-  width: 100%;
   justify-content: center;
   padding-bottom: 100px;
   grid-template-areas: ${({ imgStart }) =>
@@ -53,18 +51,17 @@ export const WhyVRRow = styled.div`
 export const Column1 = styled.div`
   padding: 0 15px;
   grid-area: col1;
-  width: 600px;
   height: 300px;
-  background-image: url(https://media.istockphoto.com/id/1167091803/photo/symbol-of-research-against-sexually-transmitted-diseases.jpg?s=612x612&w=0&k=20&c=WKSGwe6DkpacVRth-NjCsKBagbf4GGGuAgiBvxGD3gA=);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKEaEdbGkUzm1oZYhin0B0xEn4FPOCUaPkbg&usqp=CAU);
   background-size: auto;
 `;
 
 export const Column2 = styled.div`
   padding: 0 15px;
   grid-area: col2;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKEaEdbGkUzm1oZYhin0B0xEn4FPOCUaPkbg&usqp=CAU);
   background-size: auto;
   height: 300px;
+  background-image: url(https://media.istockphoto.com/id/1167091803/photo/symbol-of-research-against-sexually-transmitted-diseases.jpg?s=612x612&w=0&k=20&c=WKSGwe6DkpacVRth-NjCsKBagbf4GGGuAgiBvxGD3gA=);
 `;
 
 export const Column3 = styled.div`

@@ -21,4 +21,16 @@
     right: 80px;
     width: 50%;
     top: 25px
+
+}
+@media screen and (max-width: 960px) {
+    .slogan {
+        font-size: 0.3rem;
+        text-align: center;
+        font-weight: lighter;
+        position: relative;
+        right: 43%;
+        width: 50%;
+        top: 14%
+    }
 }

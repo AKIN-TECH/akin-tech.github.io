@@ -187,8 +187,7 @@
 .logo {
   width: 85px;
   height: 50px;
-  position: relative;
-  left: 1000;
+  cursor: pointer;
 }
 
 .location {
