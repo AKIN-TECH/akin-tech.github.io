@@ -2,13 +2,14 @@ import React from "react";
 import { Link } from "react-scroll";
 import "./footer.css";
 import Logo from "../../images/manzel-logo.png";
+import Location from '../../images/location1.svg'
 import { animateScroll as scroll } from "react-scroll";
 
 import {
-  FaFacebook,
+  // FaFacebook,
   FaInstagram,
-  FaYoutube,
-  FaTwitter,
+  // FaYoutube,
+  // FaTwitter,
   FaLinkedin,
 } from "react-icons/fa";
 
@@ -28,19 +29,19 @@ const Footer = () => {
           education and the shortest time possible for estimation.
         </p>
         <div className="icons">
-          <a href="https://web.facebook.com/">
+          {/* <a href="https://web.facebook.com/">
             <FaFacebook />
-          </a>
+          </a> */}
           <a href="https://www.instagram.com/manzeledtech/">
             <FaInstagram />
           </a>
-          <a href="https://twitter.com/">
+          {/* <a href="https://twitter.com/">
             <FaTwitter />
           </a>
           <a href="https://www.youtube.com/">
             <FaYoutube />
-          </a>
-          <a href="https://www.linkedin.com/">
+          </a> */}
+          <a href="https://www.linkedin.com/company/divacio-creations/">
             <FaLinkedin />
           </a>
         </div>
@@ -61,18 +62,16 @@ const Footer = () => {
           <p>
             <a href="https://www.google.com/maps/place/Orange+Digital+Village/@31.9701787,35.9076182,17z/data=!4m12!1m6!3m5!1s0x151ca1dd7bca79dd:0x9b0416f056ff0786!2sOrange+Digital+Village!8m2!3d31.9701742!4d35.9098069!3m4!1s0x151ca1dd7bca79dd:0x9b0416f056ff0786!8m2!3d31.9701742!4d35.9098069">
               {" "}
-              office@company.com
+              <img className="location" src={Location} alt='location' />
             </a>
           </p>
         </div>
       </div>
       <div className="footer-right col-md-4 col-sm-6">
-        <h2>
           <span>
             {" "}
             <img src={Logo} alt="Logo" className="logo" onClick={toggleHome} />
           </span>
-        </h2>
         <p className="menu">
           <Link to="intro" exact={1} onClick={toggleHome}>
             {" "}
@@ -113,6 +112,7 @@ const Footer = () => {
             Plans
           </Link>
         </p>
+        <p className="email">Support@akintech.co</p>
         <p className="name"> Manzel &copy; 2022</p>
       </div>
     </footer>

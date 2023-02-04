@@ -6,7 +6,7 @@ const Partners = () => {
   return (
     <div className="Body" id="partners">
       <div className="container">
-        <h2>Our Incubators</h2>
+        <h2>Our Supporters</h2>
         <ul className="cards">
           {partnersObj.map(({ img }) => {
             return (
