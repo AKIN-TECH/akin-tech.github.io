@@ -55,7 +55,7 @@ export const Column1 = styled.div`
   grid-area: col1;
   width: 600px;
   height: 300px;
-  background-image: url(https://t3.ftcdn.net/jpg/04/13/04/92/360_F_413049258_ojQjLomwzdvneZKarYlAzRWQDqk4MlC0.jpg);
+  background-image: url(https://media.istockphoto.com/id/1167091803/photo/symbol-of-research-against-sexually-transmitted-diseases.jpg?s=612x612&w=0&k=20&c=WKSGwe6DkpacVRth-NjCsKBagbf4GGGuAgiBvxGD3gA=);
   background-size: auto;
 `;
 
@@ -90,8 +90,9 @@ export const TopLine = styled.p`
   font-weight: 700;
   letter-spacing: 1.4px;
   text-transform: uppercase;
-  margin-top: 20%;
-  margin-bottom: 20px;
+  text-align: center;
+  margin-top: 25%;
+  /* margin-bottom: 20px; */
   /* z-index: 10; */
 
   @media screen and (max-width: 960px) {

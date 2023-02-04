@@ -6,7 +6,6 @@ import {
   Column1,
   TextWrapper,
   TopLine,
-  Subtitle,
   Column2,
   Column3,
 } from "./whyVRElements";
@@ -22,31 +21,31 @@ const WhyVR = ({ lightBg, id, imgStart, darkText }) => {
             <Column1>
               <TextWrapper>
                 <div className="overlay"></div>
-                <TopLine>Enhanced Visualization</TopLine>
-                <Subtitle darkText={darkText}>
+                <TopLine>Enhanced Social Learning</TopLine>
+                {/* <Subtitle darkText={darkText}>
                   Studies showed that VR is a major factor in enhancing
                   Visualization
-                </Subtitle>
+                </Subtitle> */}
               </TextWrapper>
             </Column1>
             <Column2>
               <TextWrapper>
                 <div className="overlay"></div>
-                <TopLine>Improved Research</TopLine>
-                <Subtitle darkText={darkText}>
+                <TopLine>Allowing multiple students to communicate and engage with each other</TopLine>
+                {/* <Subtitle darkText={darkText}>
                   VR gives the ability to interact with anyone with the same
                   interest, and research is a big plus.
-                </Subtitle>
+                </Subtitle> */}
               </TextWrapper>
             </Column2>
 
             <Column3>
               <TextWrapper>
                 <div className="overlay"></div>
-                <TopLine>Better Student Appraisal</TopLine>
-                <Subtitle darkText={darkText}>
+                <TopLine>Bridging the gap between educators and learners</TopLine>
+                {/* <Subtitle darkText={darkText}>
                 VR provides the ability to turn written words, into an actual world.
-                </Subtitle>
+                </Subtitle> */}
               </TextWrapper>
             </Column3>
           </WhyVRRow>
