@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/akin-tech.github.io/static/css/main.92ab02ea.css",
+    "main.js": "/akin-tech.github.io/static/js/main.b104a819.js",
+    "static/media/intro.mp4": "/akin-tech.github.io/static/media/intro.b53369e13703fcd4ceff.mp4",
+    "static/media/manzel-verse-logo.jpg": "/akin-tech.github.io/static/media/manzel-verse-logo.786b16049317ad7f6cb8.jpg",
+    "static/media/manzel-logo.jpg": "/akin-tech.github.io/static/media/manzel-logo.66cf4ba4e3ee4f1177a9.jpg",
+    "static/media/spark-poster.jpg": "/akin-tech.github.io/static/media/spark-poster.78d2308c56e673a01aee.jpg",
+    "static/media/Hadeel.jpeg": "/akin-tech.github.io/static/media/Hadeel.6e0b29b7a31e9ea0f959.jpeg",
+    "static/media/Samer.jpeg": "/akin-tech.github.io/static/media/Samer.fc6c2128b1e1be70d915.jpeg",
+    "static/media/Ahmad.jpg": "/akin-tech.github.io/static/media/Ahmad.a217a2f7c10a49c8ab76.jpg",
+    "static/media/haya.png": "/akin-tech.github.io/static/media/haya.4f8b1124657c0a07337d.png",
+    "static/media/manzel-logo.png": "/akin-tech.github.io/static/media/manzel-logo.cb1238eb57b0c9b54b3c.png",
+    "static/media/about-us.svg": "/akin-tech.github.io/static/media/about-us.46b4c3cffad0f42f95d084175ba17ac4.svg",
+    "static/media/location1.svg": "/akin-tech.github.io/static/media/location1.2d3ff96a71dd1d120fff4829599051cd.svg",
+    "static/media/manzel-intro.png": "/akin-tech.github.io/static/media/manzel-intro.b26597104e079d8bdf6a.png",
+    "static/media/vision.svg": "/akin-tech.github.io/static/media/vision.36a10e2f427d3890984f1a4822e5c99d.svg",
+    "index.html": "/akin-tech.github.io/index.html",
+    "main.92ab02ea.css.map": "/akin-tech.github.io/static/css/main.92ab02ea.css.map",
+    "main.b104a819.js.map": "/akin-tech.github.io/static/js/main.b104a819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ab02ea.css",
+    "static/js/main.b104a819.js"
+  ]
+}
