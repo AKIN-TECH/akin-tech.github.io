@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/akin-tech.github.io/static/css/main.92ab02ea.css",
-    "main.js": "/akin-tech.github.io/static/js/main.b104a819.js",
+    "main.css": "/akin-tech.github.io/static/css/main.46b2b8bf.css",
+    "main.js": "/akin-tech.github.io/static/js/main.dd3fd207.js",
     "static/media/intro.mp4": "/akin-tech.github.io/static/media/intro.b53369e13703fcd4ceff.mp4",
     "static/media/manzel-verse-logo.jpg": "/akin-tech.github.io/static/media/manzel-verse-logo.786b16049317ad7f6cb8.jpg",
     "static/media/manzel-logo.jpg": "/akin-tech.github.io/static/media/manzel-logo.66cf4ba4e3ee4f1177a9.jpg",
@@ -16,11 +16,11 @@
     "static/media/manzel-intro.png": "/akin-tech.github.io/static/media/manzel-intro.b26597104e079d8bdf6a.png",
     "static/media/vision.svg": "/akin-tech.github.io/static/media/vision.36a10e2f427d3890984f1a4822e5c99d.svg",
     "index.html": "/akin-tech.github.io/index.html",
-    "main.92ab02ea.css.map": "/akin-tech.github.io/static/css/main.92ab02ea.css.map",
-    "main.b104a819.js.map": "/akin-tech.github.io/static/js/main.b104a819.js.map"
+    "main.46b2b8bf.css.map": "/akin-tech.github.io/static/css/main.46b2b8bf.css.map",
+    "main.dd3fd207.js.map": "/akin-tech.github.io/static/js/main.dd3fd207.js.map"
   },
   "entrypoints": [
-    "static/css/main.92ab02ea.css",
-    "static/js/main.b104a819.js"
+    "static/css/main.46b2b8bf.css",
+    "static/js/main.dd3fd207.js"
   ]
 }
