@@ -24,6 +24,12 @@
 
 }
 @media screen and (max-width: 960px) {
+    .app-name{
+        position: relative;
+        right: 15%;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
     .slogan {
         font-size: 0.3rem;
         text-align: center;

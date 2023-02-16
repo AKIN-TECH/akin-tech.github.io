@@ -5,7 +5,7 @@ export const WhyVRContainer = styled.div`
   padding-bottom: 5%;
   background: ${({ lightBg }) => (lightBg ? "#f9f9f9" : "#010606")};
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 960px) {
     padding: 100px 0;
     overflow: hidden;
   }

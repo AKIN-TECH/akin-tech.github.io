@@ -32,7 +32,7 @@ const Home = () => {
       <Products {...productsObj} />
       <WhyVR {...whyVRData} />
       <Partners {...partnersObj} />
-      <Team  {...TeamObj} />
+      {/* <Team  {...TeamObj} /> */}
       <Plans />
       <Footer />
     </>
